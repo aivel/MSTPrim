@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MSTPrim:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MSTPrim_jar</output-path>
+    <root id="archive" name="MSTPrim.jar">
+      <element id="module-output" name="MSTPrim" />
+    </root>
+  </artifact>
+</component>
